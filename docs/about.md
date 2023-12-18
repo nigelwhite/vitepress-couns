@@ -1,4 +1,8 @@
-# About
+---
+title: About
+---
+
+# {{ $frontmatter.title }}
 
 ![an image](./img/paper.jpg)
 
