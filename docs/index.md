@@ -4,22 +4,31 @@ layout: home
 
 hero:
   name: "Nigel White Counselling"
-  text: "One-to-one counselling for adults"
-  tagline: My great project tagline
+  tagline: One-to-one counselling for adults
+  image:
+    src: ./img/paper.jpg
+    alt: VitePress
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Experience
+      link: /experience
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Training
+      link: /training
+
+<!-- link: https://github.com/evavic44/adocs-template -->
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: ⚡️
+    title: Adocs, The DX that can't be beat
+    details: Lorem ipsum...
+  - icon: 🎉
+    title: Power of Vue meets Markdown
+    details: Lorem ipsum...
+  - icon: 🔥
+    title: Simple and minimal, always
+    details: Lorem ipsum...
+  - icon: 🎀
+    title: Stylish and cool
+    details: Lorem ipsum...
 ---
-
