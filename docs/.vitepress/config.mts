@@ -1,12 +1,10 @@
 import { defineConfig } from "vitepress";
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Nigel White Counselling",
   description: "One-to-one counselling for adults",
   cleanUrls: true,
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     siteTitle: "Nigel White Counselling",
     nav: [
       { text: "Counselling", link: "/counselling" },
