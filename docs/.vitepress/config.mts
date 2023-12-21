@@ -21,7 +21,6 @@ export default defineConfig({
           { text: "Experience", link: "/experience" },
           { text: "Training", link: "/training" },
           { text: "Topics", link: "/topics" },
-          { text: "Cost", link: "/cost" },
           { text: "About", link: "/about" },
         ],
       },
