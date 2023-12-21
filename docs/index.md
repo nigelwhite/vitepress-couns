@@ -16,20 +16,13 @@ hero:
       text: Training
       link: /training
 
-<!-- link: https://github.com/evavic44/adocs-template -->
-
 features:
   - icon:
       src: ./img/paper.jpg
-    title: Adocs, The DX that can't be beat
+    title: Counselling
     details: Lorem ipsum...
-  - icon: 🎉
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
-  - icon: 🔥
-    title: Simple and minimal, always
-    details: Lorem ipsum...
-  - icon: 🎀
-    title: Stylish and cool
+  - icon:
+      src: ./img/paper.jpg
+    title: Supervision
     details: Lorem ipsum...
 ---

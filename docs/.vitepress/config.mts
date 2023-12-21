@@ -6,11 +6,8 @@ export default defineConfig({
   description: "One-to-one counselling for adults",
   cleanUrls: true,
   themeConfig: {
-    logo: "/logo.svg",
-    siteTitle: "Nigel White Counselling",
-  },
-  themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    siteTitle: "Nigel White Counselling",
     nav: [
       { text: "Counselling", link: "/counselling" },
       { text: "Supervision", link: "/supervision" },

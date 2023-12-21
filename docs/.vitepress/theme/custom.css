@@ -2,3 +2,6 @@
     --vp-home-hero-name-color: green;
   }
 
+  div.VPFeature article img {
+    width: 518px;
+  }
