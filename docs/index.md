@@ -19,7 +19,8 @@ hero:
 <!-- link: https://github.com/evavic44/adocs-template -->
 
 features:
-  - icon: ⚡️
+  - icon:
+      src: ./img/paper.jpg
     title: Adocs, The DX that can't be beat
     details: Lorem ipsum...
   - icon: 🎉
