@@ -1,5 +1,5 @@
 :root {
-    --vp-home-hero-name-color: green;
+    --vp-home-hero-name-color: rgb(69, 177, 69);
 
     --vp-button-brand-bg: rgb(69, 177, 69);
     --vp-button-alt-bg: rgb(69, 177, 69);
@@ -17,4 +17,6 @@
   div.VPFeature article img {
     width: 518px;
   }
+
+
 
