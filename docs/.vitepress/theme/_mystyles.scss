@@ -2,8 +2,13 @@ div.VPFeature article {
   img {
     width: 518px;
   }
-  h2 {
+  .title {
     margin: 0 auto;
-    font-size: 24px !important;
+    font-size: 24px;
+  }
+  .details {
+    margin: 0 auto;
+    font-size: 16px;
+    color: rgba(60, 60, 67);
   }
   }
