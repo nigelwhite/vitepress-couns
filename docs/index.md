@@ -10,16 +10,24 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: Experience
+      text: Free initial call
       link: /experience
     - theme: alt
-      text: Training
+      text: Contact
       link: /training
 
 features:
   - icon:
       src: ./img/paper.jpg
     title: Counselling
+    details: Lorem ipsum...
+  - icon:
+      src: ./img/paper.jpg
+    title: Supervision
+    details: Lorem ipsum...
+  - icon:
+      src: ./img/paper.jpg
+    title: Supervision
     details: Lorem ipsum...
   - icon:
       src: ./img/paper.jpg
