@@ -8,6 +8,8 @@ title: About
 
 All about about
 
+<CardCustom />
+
 There could be different ways
 
 :x:
@@ -22,3 +24,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <div class="test">Test</div>
 
 <!--@include: ./parts/myfooter.md-->
+
+<script setup>
+import CardCustom from './components/CardCustom.vue'
+</script>

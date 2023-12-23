@@ -9,11 +9,8 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: Free initial call
+      text: Book a free call
       link: /experience
-    - theme: alt
-      text: Contact
-      link: /training
 
 features:
   - icon:
