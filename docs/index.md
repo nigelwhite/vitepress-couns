@@ -44,5 +44,8 @@ import CardCustom from './components/CardCustom.vue'
       max-width: 1152px;
       display: flex;
       flex-direction: column;
+      @media (min-width: 640px) {
+      flex-direction: row;
+      }
     }
 </style>
