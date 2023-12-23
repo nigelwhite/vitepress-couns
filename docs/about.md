@@ -8,7 +8,8 @@ title: About
 
 All about about
 
-<CardCustom />
+<CardCustom title="one" message="message 1"/>
+<CardCustom title="two" message="message 2"/>
 
 There could be different ways
 
