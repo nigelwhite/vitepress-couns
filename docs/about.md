@@ -8,7 +8,7 @@ title: About
 
 All about about
 
-<CardCustom title="one" message="message 1"/>
+<CardCustom title="one" message="message 1" image="/img/paper.jpg"/>
 <CardCustom title="two" message="message 2"/>
 
 There could be different ways
