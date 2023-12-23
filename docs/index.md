@@ -39,11 +39,10 @@ import CardCustom from './components/CardCustom.vue'
 </script>
 
 <style lang="scss">
-  .container-index {
-    max-width: 1152px;
-    margin: 0 auto;
-  }
     .card-row {
-        display: flex;
+      margin: 0 auto;
+      max-width: 1152px;
+      display: flex;
+      flex-direction: column;
     }
 </style>

@@ -19,8 +19,9 @@ defineProps({
 <style lang="scss" scoped>
 .card {
   margin: 3em;
-  border: 1px black solid;
-  border-radius: 12px;
+  // border: 1px solid;
+  // border-color: rgba(60, 60, 67);
+  // border-radius: 12px;
   background-color: aquamarine;
   .card-image {
     margin-bottom: 20px;
