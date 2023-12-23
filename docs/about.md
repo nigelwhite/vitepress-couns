@@ -8,9 +8,6 @@ title: About
 
 All about about
 
-<CardCustom title="one" message="message 1" image="/img/paper.jpg"/>
-<CardCustom title="two" message="message 2"/>
-
 There could be different ways
 
 :x:
@@ -25,7 +22,3 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <div class="test">Test</div>
 
 <!--@include: ./parts/myfooter.md-->
-
-<script setup>
-import CardCustom from './components/CardCustom.vue'
-</script>
