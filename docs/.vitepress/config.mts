@@ -9,6 +9,7 @@ export default defineConfig({
     nav: [
       { text: "Counselling", link: "/counselling" },
       { text: "Supervision", link: "/supervision" },
+      { text: "Contact", link: "/supervision" },
     ],
 
     sidebar: [
@@ -19,7 +20,7 @@ export default defineConfig({
           { text: "Experience", link: "/experience" },
           { text: "Training", link: "/training" },
           { text: "Topics", link: "/topics" },
-          { text: "About", link: "/about" },
+          { text: "Cost", link: "/about" },
         ],
       },
     ],
