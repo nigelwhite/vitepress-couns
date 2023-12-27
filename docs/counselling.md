@@ -6,6 +6,8 @@ title: Counselling
 
 ![an image](./img/paper.jpg)
 
+<!--@include: ./parts/cost.md-->
+
 <FooterCustom />
 
 <script setup>
