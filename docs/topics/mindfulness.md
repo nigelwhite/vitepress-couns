@@ -6,7 +6,7 @@ title: Mindfulness
 
 _Don't do something. Just sit there._
 
-<PageImage image="/img/simon-wilkes-S297j2CsdlM-unsplash.jpg" alt="bloody hell"/>
+<UnsplashImage image="/img/simon-wilkes-S297j2CsdlM-unsplash.jpg" alt="a tree in a misty field" photographerName="Simon Wilkes" photographerLink="https://unsplash.com/@simonfromengland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" unsplashLink="https://unsplash.com/photos/green-leafed-tree-surrounded-by-fog-during-daytime-S297j2CsdlM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"/>
 
 The aim of mindfulness is to be fully occupied with what is happening in the present moment. This has been found to be very healing.
 
@@ -44,6 +44,6 @@ Our minds protect us from [trauma](trauma) by masking the effects. If you practi
 :::
 
 <script setup>
-import PageImage from "../components/PageImage.vue";
+import UnsplashImage from "../components/UnsplashImage.vue";
 
 </script>
