@@ -6,6 +6,8 @@ title: Mindfulness
 
 _Don't do something. Just sit there._
 
+<PageImage image="/img/simon-wilkes-S297j2CsdlM-unsplash.jpg" alt="bloody hell"/>
+
 The aim of mindfulness is to be fully occupied with what is happening in the present moment. This has been found to be very healing.
 
 Depending on what kind of mind you have, it can be hard to get your attention away from the churn of thoughts and place attention, instead, on the quieter things that are also happening in the moment. There's your breathing, any tingling sensations in your limbs, your heartbeat. There's the way light is falling on the objects around you. The sounds as they come and go. All these things are less entertaining than our thoughts, but they don't trigger our responses in the way thoughts do. They are not addictive in the way that thougts are. This is a relief. Our nervous systems can settle and calm. Our emotional reactions become quieter. The breathing slows. The heart gets a break.
@@ -40,3 +42,8 @@ Mindfulness can be difficult -
 ::: danger Health warning
 Our minds protect us from [trauma](trauma) by masking the effects. If you practice mindfulness and you start experiencing flashbacks you may decide mindfulness is not for you at this time. The masking is a survival mechanism. If your nervous system is masking then it is protecting you. It is certainly possible to carefully dissassemble such masking, but this is best done with help of a therapist.
 :::
+
+<script setup>
+import PageImage from "../components/PageImage.vue";
+
+</script>

@@ -11,15 +11,15 @@ hero:
     - theme: brand
       text: Book a free call
       link: /experience
-# features:
-#   - icon:
-#       src: ./img/paper.jpg
-#     title: Counselling
-#     details: Lorem ipsum...
-#   - icon:
-#       src: ./img/paper.jpg
-#     title: Supervision
-#     details: Lorem ipsum...
+features:
+  - icon:
+      src: ./img/paper.jpg
+    title: Counselling
+    details: Lorem ipsum...
+  - icon:
+      src: ./img/paper.jpg
+    title: Supervision
+    details: Lorem ipsum...
 ---
 
 <div class ="container-index">
