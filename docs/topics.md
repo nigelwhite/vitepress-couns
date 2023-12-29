@@ -11,3 +11,5 @@ Here's my take on some subjects. I hope you find the suggestions useful.
 [Alexander Technique](./topics/alexander-technique)
 
 [Mindfulness](./topics/mindfulness)
+
+[How to change](./topics/change)

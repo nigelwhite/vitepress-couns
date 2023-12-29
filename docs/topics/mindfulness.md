@@ -4,7 +4,7 @@ title: Mindfulness
 
 # {{ $frontmatter.title }}
 
-Don't do something. Just sit there.
+_Don't do something. Just sit there._
 
 The aim of mindfulness is to be fully occupied with what is happening in the present moment. This has been found to be very healing.
 
@@ -12,7 +12,9 @@ Depending on what kind of mind you have, it can be hard to get your attention aw
 
 After the thrill of a funfair ride you would ruin your evening if you wanted everything else to be that exciting. You accept that what comes next - walking back to the car, driving home, doing the dishes - won't be as gripping. And that's OK. Those other things are interesting too, but at a calmer level. When we practice mindfulness we turn away from the fascinating stories our minds are spinning. Instead we fill our attention with the smaller, quieter things that are taking place right now.
 
-### Practice mindfulness
+### Experiment with mindfulness
+
+<div class="indent">
 
 1. Make time in a safe, quiet place where you won't be disturbed.
 1. Posture supports practice. Use the posture instructions for [Alexander Technique](alexander-technique).
@@ -26,8 +28,9 @@ After the thrill of a funfair ride you would ruin your evening if you wanted eve
 1. You'll probably notice that nothing remarkable is happening - just the ho-hum background stuff that is normally too subtle to make it into our awareness.
 1. Hopefully your nervous system will calm down by itself.
 1. When you are ready to stop, say 'Thank you' to yourself for giving you these quiet moments.
+</div>
 
-Regular practice will help you understand what is on offer here. It is not thrills and excitement! Regular practititioners say that instead of feeling 'scattered' there is a sense of 'collectedness' and calm space. The health benefits are well researched.
+How did you get on? Even if you only did step 1, that can be really helpful (see [How to change](change)). Regular practice will help you understand what is on offer here. It is not thrills and excitement! Regular practititioners say that instead of feeling 'scattered' there is a sense of being 'settled, collected'. The health benefits are well researched.
 
 Mindfulness can be difficult -
 
