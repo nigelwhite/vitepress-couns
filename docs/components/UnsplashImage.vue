@@ -1,7 +1,7 @@
 <template>
   <figure class="unsplash-image">
     <img :src="image" :alt="alt" />
-    <figcaption class="credits" :style="{ color: 'colour' }">
+    <figcaption :style="{ color: color }">
       Photo by
       <a class="photographer" :href="photographerLink">{{
         photographerName
@@ -19,7 +19,7 @@ defineProps({
   photographerLink: String,
   photographerName: String,
   unsplashLink: String,
-  colour: String,
+  color: String,
 });
 </script>
 
