@@ -26,12 +26,14 @@ defineProps({
 <style lang="scss" scoped>
 .unsplash-image {
   position: relative;
+  margin-top: 1.5em;
+  margin-bottom: 2.5em;
 }
 
 figcaption {
   position: absolute;
-  bottom: 8px;
-  right: 16px;
+  bottom: 2px;
+  right: 8px;
   font-size: 0.75em;
 }
 </style>

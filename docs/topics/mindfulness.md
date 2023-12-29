@@ -6,7 +6,7 @@ title: Mindfulness
 
 _Don't do something. Just sit there._
 
-<UnsplashImage image="/img/simon-wilkes-S297j2CsdlM-unsplash.jpg" alt="a tree in a misty field" photographerName="Simon Wilkes" photographerLink="https://unsplash.com/@simonfromengland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" unsplashLink="https://unsplash.com/photos/green-leafed-tree-surrounded-by-fog-during-daytime-S297j2CsdlM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" color="white"/>
+<UnsplashImage image="/img/simon-wilkes-S297j2CsdlM-unsplash.jpg" alt="a tree in a misty field" photographerName="Simon Wilkes" photographerLink="https://unsplash.com/@simonfromengland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" unsplashLink="https://unsplash.com/photos/green-leafed-tree-surrounded-by-fog-during-daytime-S297j2CsdlM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" color="grey"/>
 
 The aim of mindfulness is to be fully occupied with what is happening in the present moment. This has been found to be very healing.
 
@@ -14,7 +14,7 @@ Depending on what kind of mind you have, it can be hard to get your attention aw
 
 After the thrill of a funfair ride you would ruin your evening if you wanted everything else to be that exciting. You accept that what comes next - walking back to the car, driving home, doing the dishes - won't be as gripping. And that's OK. Those other things are interesting too, but at a calmer level. When we practice mindfulness we turn away from the fascinating stories our minds are spinning. Instead we fill our attention with the smaller, quieter things that are taking place right now.
 
-### Experiment with mindfulness
+### If you want to experiment with mindfulness
 
 <div class="indent">
 
@@ -40,7 +40,8 @@ Mindfulness can be difficult -
 - when we drop back from the preoccupations that habitually fill our head space, we can find that other things come into our attention. You become aware of things about yourself you hadn't been noticing. You may discover you are more tired than you realised: good - you now know you need more rest. One of the benefits of mindfulness is that it puts you in touch with yourself. You may discover you are upset or hurt by something: good - you can sit quietly and listen/feel as you learn about your own response.
 
 ::: danger Health warning
-Our minds protect us from [trauma](trauma) by masking the effects. If you practice mindfulness and you start experiencing flashbacks you may decide mindfulness is not for you at this time. The masking is a survival mechanism. If your nervous system is masking then it is protecting you. It is certainly possible to carefully dissassemble such masking, but this is best done with help of a therapist.
+Our minds protect us from [trauma](trauma) by masking its effects. Masking is a survival mechanism. If your nervous system is masking then it is protecting you. If you try mindfulness and you start experiencing flashbacks you may decide mindfulness is not for you at this time. Masking can be gently dissassembled, but this is best done with help of a therapist.
+If you want to continue, keep stepping away from the power of the past and coming back to the present moment. Use present moment sensations as a safe refuge. It is not therapeutic to re-traumatise your nervous system so be sure that this won't happen. See [trauma](trauma) for more detail.
 :::
 
 <script setup>
