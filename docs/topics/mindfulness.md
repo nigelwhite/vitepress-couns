@@ -4,9 +4,9 @@ title: Mindfulness
 
 # {{ $frontmatter.title }}
 
-_Don't do something. Just sit there._
+_Don't just do something. Sit there._
 
-<UnsplashImage image="/img/simon-wilkes-S297j2CsdlM-unsplash.jpg" alt="a tree in a misty field" photographerName="Simon Wilkes" photographerLink="https://unsplash.com/@simonfromengland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" unsplashLink="https://unsplash.com/photos/green-leafed-tree-surrounded-by-fog-during-daytime-S297j2CsdlM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" color="grey"/>
+<PageImage image="/img/simon-wilkes-S297j2CsdlM-unsplash.jpg" alt="a tree in a misty field" photographerName="Simon Wilkes" photographerLink="https://unsplash.com/@simonfromengland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" unsplashLink="https://unsplash.com/photos/green-leafed-tree-surrounded-by-fog-during-daytime-S297j2CsdlM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" color="grey"/>
 
 The aim of mindfulness is to be fully occupied with what is happening in the present moment. This has been found to be very healing.
 
@@ -45,6 +45,6 @@ If you want to continue, keep stepping away from the power of the past and comin
 :::
 
 <script setup>
-import UnsplashImage from "../components/UnsplashImage.vue";
+import PageImage from "../components/PageImage.vue";
 
 </script>
